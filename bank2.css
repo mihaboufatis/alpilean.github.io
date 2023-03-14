@@ -133,7 +133,7 @@
          .container .typing h1{
 
           font-family: DECHOR ROTHEN;
-          font-size: 22px;color: white;
+          font-size: 22px;color: rgb(7, 7, 7);
          }
         
          .typing .click{
@@ -141,8 +141,8 @@
           width: 180px;
           border: none;
           margin-left: 10px;border-radius: 05px;
-          background-color: white;
-          color: #FF0303;
+          background-color: rgb(22, 195, 74);
+          color: #dfd7d7;
           font-family: DECHOR ROTHEN;
           
          }
